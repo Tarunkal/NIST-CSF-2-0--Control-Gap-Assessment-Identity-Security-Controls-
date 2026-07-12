@@ -1,4 +1,5 @@
-# -IT-Control-Gap-Audit-IAM-Security-Controls
+# NIST CSF 2.0 Control Gap Assessment – Identity & Security Controls  
+
 ## Project Overview
 
 This project simulates a real-world Control Gap Assessment using the NIST Cybersecurity Framework (CSF) 2.0.
